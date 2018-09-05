@@ -1,7 +1,22 @@
 ember-bliss
 ==============================================================================
 
-[Short description of the addon.]
+# Ember Bliss
+
+An ember addon to load all the goodies.
+
+## Ember Dev Packages
+
+### ember-cli-coffeescript
+
+### ember-paper
+
+### ember-cli-sass
+
+## Ember Addons
+
+### ember-custom-actions
+
 
 Installation
 ------------------------------------------------------------------------------
