@@ -12,6 +12,9 @@
     "doc": "doc",
     "test": "tests"
   },
+  "bin": {
+    "bliss": "./bin/cli.js"
+  },
   "scripts": {
     "build": "ember build",
     "lint:js": "eslint .",
